@@ -29,7 +29,7 @@ end
 # unset irrelevant variables
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/workspace/gitpod-ubuntu-20.04/khanh_blog/.venv"
+set -gx VIRTUAL_ENV "/workspaces/khanh_blog/.venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH

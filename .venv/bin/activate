@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/workspace/gitpod-ubuntu-20.04/khanh_blog/.venv"
+VIRTUAL_ENV="/workspaces/khanh_blog/.venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

@@ -1,4 +1,4 @@
-#!/workspace/gitpod-ubuntu-20.04/khanh_blog/.venv/bin/python3
+#!/workspaces/khanh_blog/.venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
